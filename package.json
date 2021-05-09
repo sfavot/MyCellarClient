@@ -24,7 +24,7 @@
     "history": "^4.7.2",
     "i18n-iso-countries": "^3.7.3",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "moment": "^2.22.2",
     "node-sass-chokidar": "^1.2.2",
     "normalizr": "^3.2.4",
